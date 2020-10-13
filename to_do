@@ -1,0 +1,19 @@
+_ Mysql pour gérer les taches
+
+_ Chaque tache a 3 états : 
+		- Non fait
+		- En cours
+		- Terminée
+
+_ Caractéristiques des taches : 
+		- Créateur
+		- Date limite (possibilité de NULL)
+		- Ordre de priorité
+
+_ Tri par date limite puis par ordre de priorité
+
+_ Possibilité de créer des regroupements de taches (sous un même nom)
+
+_ Affichage de la liste des taches :
+		- Du même regroupement
+		- Toutes les taches de l'utilisateur
